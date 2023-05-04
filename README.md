@@ -3,7 +3,7 @@
 
 SuperCLUE: A Benchmark for Foundation Models in Chinese
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.png" ></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.png"  width="72%" height="72%"></img>
 ## SuperCLUE是什么
 中文通用大模型基准（SuperCLUE），是针对中文可用的通用大模型的一个测评基准。
 它主要要回答的问题是：在当前通用大模型大力发展的情况下，中文大模型效果怎么样、这些模型有什么优缺点、相较于国际上的代表性模型做到了什么程度？
