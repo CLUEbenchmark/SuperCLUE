@@ -3,7 +3,7 @@
 
 SuperCLUE: A Benchmark for Foundation Models in Chinese
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.png"  width="72%" height="72%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.jpg"  width="72%" height="72%"></img>
 ## SuperCLUE是什么
 中文通用大模型基准（SuperCLUE），是针对中文可用的通用大模型的一个测评基准。
 它主要要回答的问题是：在当前通用大模型大力发展的情况下，中文大模型效果怎么样、这些模型有什么优缺点、相较于国际上的代表性模型做到了什么程度？
@@ -27,11 +27,22 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 
 ## SuperCLUE的数据集
 1.基础能力（10项能力）：语义理解、生成与创作、闲聊、对话、百科与知识、逻辑与推理、计算能力、代码、角色模拟、对话安全
+    
+    示例：
+    语义理解：
+    生成语创作：请创作一段对话，描述你和你最好的朋友在一起度过的一个难忘时刻。
 
 2.中文特性能力（10项能力）：成语、对联、方言、古文、汉语句法分析、汉字字形和拼音理解、诗词、文学、歇后语和谚语、字义理解
-
+    
+    示例：
+    成语：
+    诗词：
 3.专业能力（55项能力）：抽象代数、天文学、临床知识、大学生物学、大学计算机科学、大学数学、高中化学、高中物理、机器学习、营养、专业会计、职业心理学等
-
+    
+    示例：
+    大学计算机科学：
+    天文学：
+    
 ## SuperCLUE的测试方法
 我们采用人工测评与自动化测评相结合的方式进行测评。
 
