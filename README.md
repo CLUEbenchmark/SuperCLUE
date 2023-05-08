@@ -16,7 +16,7 @@ SuperCLUE: A Benchmark for Foundation Models in Chinese
 ## SuperCLUE的构成与特点
 着眼于综合评价大模型的能力，使其能全面的测试大模型的效果，又能考察模型在中文上特有任务的理解和积累，我们对能力进行了划分。
 SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业能力和中文特性能力。
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/score.jpg"  width="72%" height="72%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/score.jpg"  width="85%" height="85%"></img>
 
 #### 基础能力:
 
