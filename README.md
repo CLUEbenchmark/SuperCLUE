@@ -4,7 +4,7 @@
 SuperCLUE: A Benchmark for Foundation Models in Chinese
 
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.jpeg"  width="72%" height="72%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.jpeg"  width="85%" height="85%"></img>
 
 SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模型，欢迎联系与交流；数据集和进一步信息计划在下一次更新时公开，敬请期待。
 
@@ -16,11 +16,10 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 
 它尝试在一系列国内外代表性的模型上使用多个维度能力进行测试。SuperCLUE是中文语言理解测评基准（CLUE）基准是在通用人工智能时代的进一步发展。
 
-
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/score.jpg"  width="85%" height="85%"></img>
 ## SuperCLUE的构成与特点
 着眼于综合评价大模型的能力，使其能全面的测试大模型的效果，又能考察模型在中文上特有任务的理解和积累，我们对能力进行了划分。
 SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业能力和中文特性能力。
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/score.jpg"  width="85%" height="85%"></img>
 
 #### 基础能力:
 
@@ -197,7 +196,7 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 
 #### 中文特性能力表(v1.0版)
 
-| 子能力           | 人类 | ChatGLM-6B | MOSS-16B | Vicuna-13B | GPT-3.5 | GPT-4 | BELLE-13B | 星火 | 文心一言 | MiniMax |
+| 中文特性能力           | 人类 | ChatGLM-6B | MOSS-16B | Vicuna-13B | GPT-3.5 | GPT-4 | BELLE-13B | 星火 | 文心一言 | MiniMax |
 | ---------------- | ---- | --------- | ------- | --------- | ------ | ---- | -------- | ---- | ------ | ------- |
 | 成语             | 0.80 | 0.30      | 0.10    | 0.30      | 0.70   | 0.70 | 0.30     | 0.70 | 0.40   | 0.30    |
 | 文学             | 1.00 | 0.50      | 0.50    | 0.10      | 0.40   | 0.40 | 0.40     | 0.30 | 0.10   | 0.40    |
