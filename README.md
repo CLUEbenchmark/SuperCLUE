@@ -6,14 +6,17 @@ SuperCLUE: A Benchmark for Foundation Models in Chinese
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.jpg"  width="72%" height="72%"></img>
 ## SuperCLUE是什么
 中文通用大模型基准（SuperCLUE），是针对中文可用的通用大模型的一个测评基准。
+
 它主要要回答的问题是：在当前通用大模型大力发展的情况下，中文大模型的效果情况。包括但不限于：这些模型哪些相对效果情况、相较于国际上的代表性模型做到了什么程度、
 这些模型与人类的效果对比如何？
+
 它尝试在一系列国内外代表性的模型上使用多个维度能力进行测试。SuperCLUE是中文语言理解测评基准（CLUE）基准是在通用人工智能时代的进一步发展。
 
 
 ## SuperCLUE的构成与特点
 着眼于综合评价大模型的能力，使其能全面的测试大模型的效果，又能考察模型在中文上特有任务的理解和积累，我们对能力进行了划分。
 SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业能力和中文特性能力。
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/score.jpg"  width="72%" height="72%"></img>
 
 #### 基础能力:
 
