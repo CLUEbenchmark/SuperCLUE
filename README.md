@@ -4,7 +4,7 @@
 SuperCLUE: A Benchmark for Foundation Models in Chinese
 
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.jpg"  width="72%" height="72%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.jpeg"  width="72%" height="72%"></img>
 
 SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模型，欢迎联系与交流；数据集和进一步信息计划在下一次更新时公开，敬请期待。
 
