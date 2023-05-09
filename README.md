@@ -212,4 +212,11 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 3. 选取的能力范围：我们尽可能的全面、综合衡量模型的多维度的能力，但是可能有一些模型能力没有在我们的考察范围内。后续也存在的扩大考察范围的可能。
 
 ## SuperCLUE的讨论与交流
-SuperCLUE交流群
+
+SuperCLUE榜单大模型评测申请：https://wj.qq.com/s2/12305633/a73d/
+
+SuperCLUE机构模型评测需求收集：https://wj.qq.com/s2/12307825/2ae0/
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluegroup.png"  width="60%" height="60%"></img>
+
+<a href="https://discord.gg/GPHv9BfNUD" target="__blank">Discord SuperCLUE交流群</a>
