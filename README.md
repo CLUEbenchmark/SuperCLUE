@@ -221,7 +221,7 @@ SuperCLUE榜单大模型评测申请：https://wj.qq.com/s2/12305633/a73d/
 
 模型内测需求收集：https://wj.qq.com/s2/12307825/2ae0/
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluegroup2.jpeg"  width="30%" height="30%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluegroup3.jpeg"  width="30%" height="30%"></img>
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/brightmart0509.jpeg"  width="30%" height="30%"></img>
 
