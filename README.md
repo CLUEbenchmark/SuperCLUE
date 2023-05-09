@@ -16,7 +16,7 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 
 它尝试在一系列国内外代表性的模型上使用多个维度能力进行测试。SuperCLUE是中文语言理解测评基准（CLUE）在通用人工智能时代的进一步发展。
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/score.png"  width="85%" height="85%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/score.png"  width="90%" height="90%"></img>
 ## SuperCLUE的构成与特点
 着眼于综合评价大模型的能力，使其能全面地测试大模型的效果，又能考察模型在中文特有任务上的理解和积累。我们对能力进行了划分，
 SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业能力和中文特性能力。
@@ -177,6 +177,8 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 
 #### 基础能力表(v1.0版)
 
+<div style="overflow-x:auto;">
+
 |    模型     |   指标   |   代码   |   安全   |   对话   | 生成与创作 | 百科与知识 | 角色模拟 | 计算能力 | 语义理解 | 逻辑与推理 |   闲聊   |   平均   |
 |:---------:|:-------:|:------:|:------:|:------:|:-------:|:-------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |    人类    | Acc |  90.00  | 100.00  | 100.00  |  90.00  | 100.00  | 100.00  | 100.00  | 100.00  | 100.00  | 100.00  |  98.00  |
@@ -189,6 +191,8 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 |  MOSS-16B | Acc |  70.00  |  50.00  |  50.00  |  40.00  |  50.00  |  70.00  |  30.00  |  50.00  |  10.00  | 100.00  |  52.00  |
 | Vicuna-13B | Acc |  60.00  |  60.00  |  30.00  |  30.00  |  30.00  |  70.00  |  40.00  |  40.00  |  40.00  |  50.00  |  45.00  |
 |  文心一言  | Acc |  40.00  |  30.00  |  20.00  |  20.00  |  70.00  |  50.00  |  20.00  |  30.00  |  30.00  |  90.00  |  40.00
+
+</div>
 
 #### 中文特性能力表(v1.0版)
 
@@ -217,6 +221,6 @@ SuperCLUE榜单大模型评测申请：https://wj.qq.com/s2/12305633/a73d/
 
 SuperCLUE机构模型评测需求收集：https://wj.qq.com/s2/12307825/2ae0/
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluegroup.png"  width="60%" height="60%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluegroup.png"  width="30%" height="30%"></img>
 
 <a href="https://discord.gg/GPHv9BfNUD" target="__blank">Discord SuperCLUE交流群</a>
