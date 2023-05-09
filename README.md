@@ -1,5 +1,5 @@
 # SuperCLUE
-全球首个中文通用大模型综合性基准SuperCLUE
+中文通用大模型综合性基准SuperCLUE
 
 SuperCLUE: A Benchmark for Foundation Models in Chinese
 
