@@ -219,7 +219,7 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 
 SuperCLUE榜单大模型评测申请：https://wj.qq.com/s2/12305633/a73d/
 
-SuperCLUE机构模型评测需求收集：https://wj.qq.com/s2/12307825/2ae0/
+机构模型内测需求收集：https://wj.qq.com/s2/12307825/2ae0/
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluegroup.png"  width="30%" height="30%"></img>
 
