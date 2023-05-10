@@ -214,6 +214,7 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 1. 基础能力、中文特性能力：虽然每一部分都包含了10类子能力，但这两个能力的总数据量比较少，可能存在需要扩充数据集的问题。
 2. 选取模型的不完全：我们测试了9个模型，但还存在着更多的可用中文大模型。需要后续进一步添加并测试；有的模型由于没有广泛对外提供服务，我们没能获取到可用的测试版本。
 3. 选取的能力范围：我们尽可能的全面、综合衡量模型的多维度能力，但是可能有一些模型能力没有在我们的考察范围内。后续也存在扩大考察范围的可能。
+4. 客观考察的不足：我们以相对客观形式考察模型能力，但一些主观、开放性问题的模型能力的考察可能存在不足。
 
 ## SuperCLUE讨论与交流
 
@@ -221,9 +222,9 @@ SuperCLUE榜单大模型评测申请：https://wj.qq.com/s2/12305633/a73d/
 
 模型内测需求收集：https://wj.qq.com/s2/12307825/2ae0/
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluegroup4.jpeg"  width="30%" height="30%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluegroup7.jpeg"  width="30%" height="30%"></img>
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluegroup5.jpeg"  width="30%" height="30%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluegroup6.jpeg"  width="30%" height="30%"></img>
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/brightmart0509.jpeg"  width="30%" height="30%"></img>
 
