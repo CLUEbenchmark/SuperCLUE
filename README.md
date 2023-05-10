@@ -4,7 +4,7 @@
 SuperCLUE: A Benchmark for Foundation Models in Chinese
 
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.jpeg"  width="85%" height="85%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.jpeg"  width="90%" height="90%"></img>
 
 SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模型，欢迎联系与交流；数据集和进一步信息计划在下一次更新时公开，敬请期待。
 
@@ -16,7 +16,7 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 
 它尝试在一系列国内外代表性的模型上使用多个维度能力进行测试。SuperCLUE是中文语言理解测评基准（CLUE）在通用人工智能时代的进一步发展。
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluescore.png"  width="90%" height="90%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluescore.png"  width="96%" height="96%"></img>
 ## SuperCLUE的构成与特点
 着眼于综合评价大模型的能力，使其能全面地测试大模型的效果，又能考察模型在中文特有任务上的理解和积累。我们对能力进行了划分，
 SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业能力和中文特性能力。
@@ -211,7 +211,7 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 2. 选取模型的不完全：我们测试了9个模型，但还存在着更多的可用中文大模型。需要后续进一步添加并测试；有的模型由于没有广泛对外提供服务，我们没能获取到可用的测试版本。
 3. 选取的能力范围：我们尽可能的全面、综合衡量模型的多维度能力，但是可能有一些模型能力没有在我们的考察范围内。后续也存在扩大考察范围的可能。
 4. 客观考察的不足：我们以相对客观形式考察模型能力，但一些主观、开放性问题的模型能力的考察可能存在不足。
-5. 模型参数：由于当前大模型发展较快，参数量又有比较大的差异，本次的测评并没有在同一级别的参数量上进行。
+5. 模型参数：当前大模型发展较快，参数量又有比较大的差异，本次的测评并没有在同一级别的参数量上进行。
 
 ## SuperCLUE讨论与交流
 
@@ -227,5 +227,6 @@ SuperCLUE榜单大模型评测申请：https://wj.qq.com/s2/12305633/a73d/
 
   <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/brightmart_s.jpeg"  width="30%" height="30%"></img>
  
-</p>  
+</p> 
+ 
 <a href="https://discord.gg/GPHv9BfNUD" target="__blank">Discord SuperCLUE交流群</a>
