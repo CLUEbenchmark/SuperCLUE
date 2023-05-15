@@ -4,21 +4,12 @@
 SuperCLUE: A Benchmark for Foundation Models in Chinese
 
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.jpeg"  width="90%" height="90%"></img>
-
-SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模型，欢迎联系与交流；数据集和进一步信息计划在下一次更新时公开，敬请期待。
-
-#### 更新 Update（2023-05-23）
-
-    添加Claude: OpenAI最强竞争对手Anthropic的Claude取得了与ChatGPT3.5一致的效果
-    添加ChatGLM-130B: 相比ChatGLM-6B效果大幅提升（+7.35），处于国内较好水平
-
 - [SuperCLUE是什么](#SuperCLUE是什么)
 - [SuperCLUE的构成与特点](#SuperCLUE的构成与特点)
 - [SuperCLUE的测试结果](#SuperCLUE的测试结果)
-     - [总榜单-v1.0版](#总榜单-v1.0版)
-     - [基础能力表-v1.0版](#基础能力表-v1.0版)
-     - [中文特性能力表-v1.0版](#中文特性能力表-v1.0版)
+     - [总榜单-v1.0版](#总榜单-v10版)
+     - [基础能力表-v1.0版](#基础能力表-v10版)
+     - [中文特性能力表-v1.0版](#中文特性能力表-v10版)
 - [SuperCLUE的特点](#SuperCLUE的特点)
 - [SuperCLUE的数据集](#SuperCLUE的数据集)
 - [人类基准测评](#人类基准测评)
@@ -30,6 +21,15 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 - [SuperCLUE的不足与局限](#SuperCLUE的不足与局限)
 - [SuperCLUE的常见问答](#SuperCLUE的常见问答)
 - [SuperCLUE讨论与交流](#SuperCLUE讨论与交流)
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.jpeg"  width="90%" height="90%"></img>
+
+SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模型，欢迎联系与交流；数据集和进一步信息计划在下一次更新时公开，敬请期待。
+
+#### 更新 Update（2023-05-23）
+
+    添加Claude: OpenAI最强竞争对手Anthropic的Claude取得了与ChatGPT3.5一致的效果
+    添加ChatGLM-130B: 相比ChatGLM-6B效果大幅提升（+7.35），处于国内较好水平
 
 ## SuperCLUE是什么
 中文通用大模型基准（SuperCLUE），是针对中文可用的通用大模型的一个测评基准。
