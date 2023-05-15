@@ -10,8 +10,26 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 
 #### 更新 Update（2023-05-23）
 
-    添加Claude: OpenAI 最强竞争对手Anthropic的Claude取得了与ChatGPT3.5一致的效果。
-    添加ChatGLM-130B: 相比ChatGLM-6B大幅提升（+7.35），处于国内较好水平
+    添加Claude: OpenAI最强竞争对手Anthropic的Claude取得了与ChatGPT3.5一致的效果
+    添加ChatGLM-130B: 相比ChatGLM-6B效果大幅提升（+7.35），处于国内较好水平
+
+- [SuperCLUE是什么](#SuperCLUE是什么)
+- [SuperCLUE的构成与特点](#SuperCLUE的构成与特点)
+- [SuperCLUE的测试结果](#SuperCLUE的测试结果)
+     - [总榜单(v1.0版)](#总榜单(v1.0版))
+     - [基础能力表(v1.0版)](#基础能力表(v1.0版))
+     - [中文特性能力表(v1.0版)](#中文特性能力表(v1.0版))
+- [SuperCLUE的特点](#SuperCLUE的特点)
+- [SuperCLUE的数据集](#SuperCLUE的数据集)
+- [人类基准测评](#人类基准测评)
+- [实验分析](#实验分析)
+     - [人类与模型的对比](#人类与模型的对比)
+     - [模型层面，宏观分析](#模型层面，宏观分析)
+     - [能力角度分析](#能力角度分析) 
+     - [国内大模型点评](#国内大模型点评) 
+- [SuperCLUE的不足与局限](#SuperCLUE的不足与局限)
+- [SuperCLUE的常见问答](#SuperCLUE的常见问答)
+- [SuperCLUE讨论与交流](#SuperCLUE讨论与交流)
 
 ## SuperCLUE是什么
 中文通用大模型基准（SuperCLUE），是针对中文可用的通用大模型的一个测评基准。
@@ -216,7 +234,7 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 
 #### 国内大模型点评
 
-本次测评中，国内大模型中近期发布的星火认知大模型最好，MiniMax模型也有不错的表现。
+本次测评中，国内大模型中近期发布的星火认知大模型最好，清华&智谱千亿模型ChatGLM-130B效果不错，MiniMax模型也有不错的表现。
 
 
 ## SuperCLUE的不足与局限
