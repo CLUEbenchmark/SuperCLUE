@@ -284,12 +284,11 @@ SuperCLUE榜单大模型评测申请：https://wj.qq.com/s2/12305633/a73d/
 
 如果使用本项目的，请引用本项目。
 
-
-@misc{SuperCLUE,
-  author = {Liang Xu and others},
-  title = {SuperCLUE: A Benchmark for Foundation Models in Chinese},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/CLUEbench/SuperCLUE}},
-}
+    @misc{SuperCLUE,
+      author = {Liang Xu and others from SuperCLUE team},
+      title = {SuperCLUE: A Benchmark for Foundation Models in Chinese},
+      year = {2023},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      howpublished = {\url{https://github.com/CLUEbench/SuperCLUE}},
+    }
