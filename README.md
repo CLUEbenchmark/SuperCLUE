@@ -248,18 +248,14 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 
 1. 什么时候会公布评测集和更多细节？
 
-       由于本轮评测尚未结束，数据集和进一步信息计划将在本轮SuperCLUE评测结束后公开，敬请期待。
+       由于本轮评测尚未结束，数据集和进一步信息计划将在本轮SuperCLUE评测结束后公开，敬请期待。     
 
-2. 评测集数量
-      
-       首轮评测集的数量在千级别。我们也计划后续扩展数据规模
-
-3. 测试方法
+2. 测试方法
        
        相同的prompt情况下，让不同的模型对题目进行预测结果，与正确答案进行匹配，计算最终结果，并统计准确率（ACC）。
        计算正确答案：根据模型预测结果，系统会提取答案，并计算题目的分数；为稳妥起见，人工会符合每一个模型的预测结果及其答案。
 
-4. 为什么人工测评的成绩这么高? 人类测评员是什么水平？
+3. 为什么人工测评的成绩这么高? 人类测评员是什么水平？
        
        当前报告的人类测评的分数是采取开卷考试形式的进行的。即由每一个题目3个人类测评员进行开卷考试，最后结果进行多数投票后获得。
        我们也会添加采取闭卷形式的人类分数。
@@ -283,3 +279,17 @@ SuperCLUE榜单大模型评测申请：https://wj.qq.com/s2/12305633/a73d/
 
  
 <a href="https://discord.gg/GPHv9BfNUD" target="__blank">Discord SuperCLUE交流群</a>
+
+## 引用
+
+如果使用本项目的，请引用本项目。
+
+
+@misc{SuperCLUE,
+  author = {Liang Xu and others},
+  title = {SuperCLUE: A Benchmark for Foundation Models in Chinese},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/CLUEbench/SuperCLUE}},
+}
