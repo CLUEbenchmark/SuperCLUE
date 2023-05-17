@@ -39,7 +39,7 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 
 它尝试在一系列国内外代表性的模型上使用多个维度能力进行测试。SuperCLUE是中文语言理解测评基准（CLUE）在通用人工智能时代的进一步发展。
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluescore2.png"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluescore3.png"  width="100%" height="100%"></img>
 
 ## SuperCLUE的构成与特点
 着眼于综合评价大模型的能力，使其能全面地测试大模型的效果，又能考察模型在中文特有任务上的理解和积累。我们对能力进行了划分，
