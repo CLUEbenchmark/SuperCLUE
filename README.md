@@ -25,8 +25,8 @@ SuperCLUE: A Benchmark for Foundation Models in Chinese
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.jpeg"  width="90%" height="90%"></img>
 
 SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模型，欢迎联系与交流；数据集和进一步信息计划在下一次更新时公开，敬请期待。
-
-#### 更新 Update（2023-05-23）
+    
+#### 更新 Update（2023-05-12）
 
     添加Claude: OpenAI最强竞争对手Anthropic的Claude取得了与ChatGPT3.5一致的效果
     添加ChatGLM-130B: 相比ChatGLM-6B效果大幅提升（+7.35），处于国内较好水平
@@ -273,7 +273,7 @@ SuperCLUE榜单大模型评测申请：https://wj.qq.com/s2/12305633/a73d/
 
 
 <p float="left">   
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/supercluegroup8.jpeg"  width="30%" height="30%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue_x1.jpeg"  width="30%" height="30%"></img>
   <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/brightmart_s.jpeg"  width="30%" height="30%"></img>
 </p> 
 
