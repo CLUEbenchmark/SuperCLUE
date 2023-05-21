@@ -72,6 +72,7 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 |        <a href='https://openai.com/'>GPT-4</a>       | OpenAI |  76.67  |  90.00  |  68.00  |    72.00     |
 |    <a href='https://openai.com/'>GPT-3.5-turbo</a>   | OpenAI |  66.18  |  85.00  |  59.00  |    54.55     |
 |    <a href='https://www.anthropic.com/'>Claude</a>   | Anthropic | 65.13   | 87.00  |  55.00   |   53.39     |
+|    <a href='https://ai.360.cn'>360智脑</a>   | 360智脑 | 58.24  |  80.00  | 49.00     |  45.71     |
 |  <a href='https://xinghuo.xfyun.cn/'>星火认知大模型</a> | 科大讯飞  |  53.58  |  74.00  |  44.00  |    42.73     |
 |  <a href='https://chatglm.cn'>ChatGLM-130B</a> |清华&智谱AI  |  49.52  |  73.00  |  33.00  |    42.55    |
 |       MiniMax | MiniMax       |  46.45  |  72.00  |  29.00  |    38.36     |
