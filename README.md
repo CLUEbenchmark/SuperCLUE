@@ -79,7 +79,7 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 |  <a href='https://xinghuo.xfyun.cn/'>讯飞星火</a> | 科大讯飞  |  53.58  |  74.00  |  44.00  |    42.73     |
 |  <a href='https://chatglm.cn'>ChatGLM-130B</a> |清华&智谱AI  |  49.52  |  73.00  |  33.00  |    42.55    |
 |       <a href='https://api.minimax.chat/'>MiniMax</a> | MiniMax       |  46.45  |  72.00  |  29.00  |    38.36     |
-|       <a href='https://xinchenai.com'>西湖心辰</a> | 西湖大模型       | 45.38    |   70.00 |    34.00 |     32.14     |
+|       <a href='https://xinchenai.com'>西湖大模型</a> |    西湖心辰    | 45.38    |   70.00 |    34.00 |     32.14     |
 |      <a href='https://github.com/LianjiaTech/BELLE'>BELLE-13B</a> |  链家     |  43.70  |  69.00  |  23.00  |    39.09     |
 |      <a href='https://github.com/THUDM/ChatGLM-6B'>ChatGLM-6B</a> |  清华&智谱AI     |  42.15  |  60.00  |  33.00  |    33.45     |
 |      <a href='https://github.com/OpenLMLab/MOSS'>MOSS-16B</a>   |  复旦     |  36.52  |  52.00  |  27.00  |    30.55     |
