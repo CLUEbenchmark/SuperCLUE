@@ -25,15 +25,14 @@ SuperCLUE: A Benchmark for Foundation Models in Chinese
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.jpeg"  width="90%" height="90%"></img>
 
 SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模型，欢迎联系与交流；数据集和进一步信息计划在下一次更新时公开，敬请期待。
+##### 新增2023-5-31
+<a href='https://www.SuperCLUEAI.com'>中文通用大模型匿名对战评价基准，SuperCLUE琅琊榜</a>
 
-#### 更新 Update（2023-05-30）
-    添加RWKV-7B,IDEA-姜子牙-13B,西湖大模型v2
-       
-#### 更新 Update（2023-05-21）
+##### 更新 Update（2023-05-30）
+    添加RWKV-7B,IDEA-姜子牙-13B,西湖大模型v2       
+##### 更新 Update（2023-05-21）
     添加360智脑
-
-#### 更新 Update（2023-05-12）
-
+##### 更新 Update（2023-05-12）
     添加Claude: OpenAI最强竞争对手Anthropic的Claude取得了与ChatGPT3.5一致的效果
     添加ChatGLM-130B: 相比ChatGLM-6B效果大幅提升（+7.35），处于国内较好水平
 
