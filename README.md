@@ -30,11 +30,14 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 
 ##### 更新 Update（2023-06-19）
     SuperCLUE中文大模型排行榜(2023年6月) 
-##### 更新 Update（2023-05-30）
+    
+    更新 Update（2023-05-30）
     添加RWKV-7B,IDEA-姜子牙-13B,西湖大模型v2       
-##### 更新 Update（2023-05-21）
+    
+    更新 Update（2023-05-21）
     添加360智脑
-##### 更新 Update（2023-05-12）
+    
+    更新 Update（2023-05-12）
     添加Claude: OpenAI最强竞争对手Anthropic的Claude取得了与ChatGPT3.5一致的效果
     添加ChatGLM-130B: 相比ChatGLM-6B效果大幅提升（+7.35），处于国内较好水平
 
