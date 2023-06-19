@@ -91,13 +91,12 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 | 9 | <a href='https://github.com/LianjiaTech/BELLE'>BELLE-13B</a> | 链家 | 50.65 | 60.68 | 52.97 | 38.31 |
 | 10 | <a href='https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1'>IDEA-姜子牙-13B</a>|深圳IDEA研究院| 48.67 | 59.12 | 51.36 | 35.53 |
 | 11 | <a href='https://github.com/THUDM/ChatGLM-6B'>ChatGLM-6B</a> | 清华大学&智谱AI | 48.56 | 54.69 | 56.26 | 34.74 |
-| 12 |  <a href='https://xinchenai.com'>西湖大模型</a> | 西湖大学&西湖心辰 | 48.49 | 57.65 | 49.96 | 37.85 |
-| 13 | <a href='https://github.com/baichuan-inc/baichuan-7B'>baichuan-7B</a> | 百川智能 | 48.18 | 54.06 | 55.16 | 35.32 |
-| 14 | <a href='https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b'>Phonex-7B</a> | 香港中文大学 | 43.60 | 50.97 | 46.29 | 33.55 |
-| 15 | <a href='https://github.com/OpenLMLab/MOSS'>MOSS-16B</a> | 复旦大学 | 38.56 | 44.64 | 40.37 | 30.68 |
-| 16 | <a href='https://github.com/lm-sys/FastChat'>Vicuna-13B</a> | UC伯克利 | 29.15 | 36.74 | 27.17 | 23.54 |
-| 17 | <a href='https://github.com/BlinkDL/ChatRWKV'>RWKV-Raven-7B</a> | RWKV基金会 | 24.83 | 26.21 | 23.66 | 24.60 |
-| 18 | <a href='https://model.baai.ac.cn/model-detail/100098'>Aquila-7B</a> | 智源研究院 | 23.71 | 22.55 | 25.84 | 22.73 |
+| 12 | <a href='https://github.com/baichuan-inc/baichuan-7B'>baichuan-7B</a> | 百川智能 | 48.18 | 54.06 | 55.16 | 35.32 |
+| 13 | <a href='https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b'>Phonex-7B</a> | 香港中文大学 | 43.60 | 50.97 | 46.29 | 33.55 |
+| 14 | <a href='https://github.com/OpenLMLab/MOSS'>MOSS-16B</a> | 复旦大学 | 38.56 | 44.64 | 40.37 | 30.68 |
+| 15 | <a href='https://github.com/lm-sys/FastChat'>Vicuna-13B</a> | UC伯克利 | 29.15 | 36.74 | 27.17 | 23.54 |
+| 16 | <a href='https://github.com/BlinkDL/ChatRWKV'>RWKV-Raven-7B</a> | RWKV基金会 | 24.83 | 26.21 | 23.66 | 24.60 |
+| 17 | <a href='https://model.baai.ac.cn/model-detail/100098'>Aquila-7B</a> | 智源研究院 | 23.71 | 22.55 | 25.84 | 22.73 |
 
 
 #### 基础能力表-v1.0版
