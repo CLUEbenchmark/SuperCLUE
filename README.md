@@ -7,9 +7,9 @@ SuperCLUE: A Benchmark for Foundation Models in Chinese
 - [SuperCLUE是什么](#SuperCLUE是什么)
 - [SuperCLUE的构成与特点](#SuperCLUE的构成与特点)
 - [SuperCLUE的测试结果](#SuperCLUE的测试结果)
-     - [总榜单-v1.0版](#总榜单-v10版)
-     - [基础能力表-v1.0版](#基础能力表-v10版)
-     - [中文特性能力表-v1.0版](#中文特性能力表-v10版)
+     - [总榜单](#superclue中文大模型总排行榜2023年6月)
+     - [基础能力表](#2023年6月SuperCLUE基础能力榜单)
+     - [中文特性能力表](#2023年6月SuperCLUE中文特性榜单)
 - [SuperCLUE的特点](#SuperCLUE的特点)
 - [SuperCLUE的数据集](#SuperCLUE的数据集)
 - [人类基准测评](#人类基准测评)
@@ -75,7 +75,7 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 
 #####  排行榜会定期更新           数据来源: www.CLUEbenchmarks.com              
 
-#### SuperCLUE中文大模型排行榜(2023年6月)
+#### SuperCLUE中文大模型总排行榜(2023年6月)
 
 | 排名 | 模型 | 机构 | 平均 | 基础能力 | 中文特性 | 学术专业 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -97,7 +97,6 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 | 15 | <a href='https://github.com/lm-sys/FastChat'>Vicuna-13B</a> | UC伯克利 | 29.15 | 36.74 | 27.17 | 23.54 |
 | 16 | <a href='https://github.com/BlinkDL/ChatRWKV'>RWKV-Raven-7B</a> | RWKV基金会 | 24.83 | 26.21 | 23.66 | 24.60 |
 | 17 | <a href='https://model.baai.ac.cn/model-detail/100098'>Aquila-7B</a> | 智源研究院 | 23.71 | 22.55 | 25.84 | 22.73 |
-
 
 
 #### 2023年6月SuperCLUE基础能力榜单
