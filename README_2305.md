@@ -28,8 +28,6 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 ##### 新增2023-5-31
 <a href='https://www.SuperCLUEAI.com'>中文通用大模型匿名对战评价基准，SuperCLUE琅琊榜</a>
 
-##### 更新 Update（2023-06-19）
-    SuperCLUE中文大模型排行榜(2023年6月) 
 ##### 更新 Update（2023-05-30）
     添加RWKV-7B,IDEA-姜子牙-13B,西湖大模型v2       
 ##### 更新 Update（2023-05-21）
@@ -71,29 +69,25 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 
 #####  排行榜会定期更新           数据来源: www.CLUEbenchmarks.com              
 
-#### SuperCLUE中文大模型排行榜(2023年6月)
+#### 总榜单-v1.0版
 
-| 排名 | 模型 | 机构 | 平均 | 基础能力 | 中文特性 | 学术专业 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 0 | 人类 | CLUE | -- | -- | -- | -- |
-| 1 | <a href='https://openai.com/'>GPT-4</a>| OpenAI | 78.76 | 82.13 | 83.81 | 70.35 |
-| 2 | <a href='https://openai.com/'>GPT-3.5-turbo</a> | OpenAI | 67.98 | 75.44 | 74.14 | 54.37 |
-| 3 | <a href='https://ai.360.cn'>360智脑</a>| 360 | 63.53 | 71.68 | 73.04 | 45.87 |
-| 4 | <a href='https://yiyan.baidu.com/welcome'>文心一言</a> | 百度 | 62.85 | 70.64 | 71.72 | 46.18 |
-| 5 | <a href='https://www.anthropic.com/'>Claude</a> | Authropic | 60.38 | 68.74 | 60.73 | 51.67 |
-| 6 | <a href='https://xinghuo.xfyun.cn/'>讯飞星火</a> | 科大讯飞 | 59.80 | 69.92 | 67.18 | 42.29 |
-| 7 | <a href='https://api.minimax.chat/'>MiniMax-abab5</a>| MiniMax | 58.19 | 63.15 | 69.38 | 42.05 |
-| 8 | <a href='https://chatglm.cn'>ChatGLM-130B</a> | 清华大学&智谱AI | 51.53 | 53.62 | 64.25 | 36.73 |
-| 9 | <a href='https://github.com/LianjiaTech/BELLE'>BELLE-13B</a> | 链家 | 50.65 | 60.68 | 52.97 | 38.31 |
-| 10 | <a href='https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1'>IDEA-姜子牙-13B</a>|深圳IDEA研究院| 48.67 | 59.12 | 51.36 | 35.53 |
-| 11 | <a href='https://github.com/THUDM/ChatGLM-6B'>ChatGLM-6B</a> | 清华大学&智谱AI | 48.56 | 54.69 | 56.26 | 34.74 |
-| 12 |  <a href='https://xinchenai.com'>西湖大模型</a> | 西湖大学&西湖心辰 | 48.49 | 57.65 | 49.96 | 37.85 |
-| 13 | <a href='https://github.com/baichuan-inc/baichuan-7B'>baichuan-7B</a> | 百川智能 | 48.18 | 54.06 | 55.16 | 35.32 |
-| 14 | <a href='https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b'>Phonex-7B</a> | 香港中文大学 | 43.60 | 50.97 | 46.29 | 33.55 |
-| 15 | <a href='https://github.com/OpenLMLab/MOSS'>MOSS-16B</a> | 复旦大学 | 38.56 | 44.64 | 40.37 | 30.68 |
-| 16 | <a href='https://github.com/lm-sys/FastChat'>Vicuna-13B</a> | UC伯克利 | 29.15 | 36.74 | 27.17 | 23.54 |
-| 17 | <a href='https://github.com/BlinkDL/ChatRWKV'>RWKV-Raven-7B</a> | RWKV基金会 | 24.83 | 26.21 | 23.66 | 24.60 |
-| 18 | <a href='https://model.baai.ac.cn/model-detail/100098'>Aquila-7B</a> | 智源研究院 | 23.71 | 22.55 | 25.84 | 22.73 |
+|         模型         | 机构 |总分   | 基础能力 | 中文特性 | 学术与专业能力 |
+|:-------------------:|:------:|:------:|:------:|:------:|:------------:|
+|         人类        |CLUE| 96.50 | 98.00 | 95.00 |      -       |
+|        <a href='https://openai.com/'>GPT-4</a>       | OpenAI |  76.67  |  90.00  |  68.00  |    72.00     |
+|    <a href='https://openai.com/'>GPT-3.5-turbo</a>   | OpenAI |  66.18  |  85.00  |  59.00  |    54.55     |
+|    <a href='https://www.anthropic.com/'>Claude</a>   | Anthropic | 65.13   | 87.00  |  55.00   |   53.39     |
+|    <a href='https://ai.360.cn'>360智脑</a>   | 360 | 58.24  |  80.00  | 49.00     |  45.71     |
+|  <a href='https://xinghuo.xfyun.cn/'>讯飞星火</a> | 科大讯飞  |  53.58  |  74.00  |  44.00  |    42.73     |
+|  <a href='https://chatglm.cn'>ChatGLM-130B</a> |清华&智谱AI  |  49.52  |  73.00  |  33.00  |    42.55    |
+|       <a href='https://xinchenai.com'>西湖大模型</a> |     西湖大学&西湖心辰    | 49.46    | 75.00   |  35.00   |   38.39       |
+|       <a href='https://api.minimax.chat/'>MiniMax-abab5</a> | MiniMax       |  46.45  |  72.00  |  29.00  |    38.36     |
+|      <a href='https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1'>IDEA-姜子牙-13B</a> |  IDEA研究院    |  44.69  |  65.00  | 33.00  |    36.07     |
+|      <a href='https://github.com/LianjiaTech/BELLE'>BELLE-13B</a> |  链家     |  43.70  |  69.00  |  23.00  |    39.09     |
+|      <a href='https://github.com/THUDM/ChatGLM-6B'>ChatGLM-6B</a> |  清华&智谱AI     |  42.15  |  60.00  |  33.00  |    33.45     |
+|      <a href='https://github.com/OpenLMLab/MOSS'>MOSS-16B</a>   |  复旦     |  36.52  |  52.00  |  27.00  |    30.55     |
+|      <a href='https://github.com/lm-sys/FastChat'>Vicuna-13B</a>  |  UC伯克利   |  34.33  |  45.00  |  30.00  |    28.00     |
+|      <a href='https://github.com/BlinkDL/ChatRWKV'>RWKV-Raven-7B</a>  |   RWKV基金会  |  23.37  |  26.00  | 25.00    |   19.11       |
 
 
 #### 基础能力表-v1.0版
