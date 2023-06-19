@@ -7,7 +7,7 @@ SuperCLUE: A Benchmark for Foundation Models in Chinese
 - [SuperCLUE是什么](#SuperCLUE是什么)
 - [SuperCLUE的构成与特点](#SuperCLUE的构成与特点)
 - [SuperCLUE的测试结果](#SuperCLUE的测试结果)
-     - [总榜单](#superclue中文大模型总排行榜2023年6月)
+     - [总榜单](#2023年6月Superclue中文大模型总排行榜)
      - [基础能力表](#2023年6月SuperCLUE基础能力榜单)
      - [中文特性能力表](#2023年6月SuperCLUE中文特性榜单)
 - [SuperCLUE的特点](#SuperCLUE的特点)
@@ -75,7 +75,7 @@ SuperCLUE从三个不同的维度评价模型的能力：基础能力、专业�
 
 #####  排行榜会定期更新           数据来源: www.CLUEbenchmarks.com              
 
-#### SuperCLUE中文大模型总排行榜(2023年6月)
+#### 2023年6月Superclue中文大模型总排行榜
 
 | 排名 | 模型 | 机构 | 平均 | 基础能力 | 中文特性 | 学术专业 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
