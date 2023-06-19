@@ -28,7 +28,8 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 ##### 新增2023-5-31
 <a href='https://www.SuperCLUEAI.com'>中文通用大模型匿名对战评价基准，SuperCLUE琅琊榜</a>
 
-##### 更新 Update（2023-06-19）
+##### 更新 
+    更新 Update（2023-06-19）
     SuperCLUE中文大模型排行榜(2023年6月) 
     
     更新 Update（2023-05-30）
