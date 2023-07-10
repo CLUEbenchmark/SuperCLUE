@@ -25,15 +25,20 @@ SuperCLUE: A Benchmark for Foundation Models in Chinese
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue.jpeg"  width="90%" height="90%"></img>
 
 SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模型，欢迎联系与交流；数据集和进一步信息计划在下一次更新时公开，敬请期待。
-##### 新增2023-5-31
-<a href='https://www.SuperCLUEAI.com'>中文通用大模型匿名对战评价基准，SuperCLUE琅琊榜</a>
 
-##### 更新 
+##### 更新
+     更新 Update（2023-07-05）
+     中文大模型的开放式问题与多轮交互基准发布，<a href='https://github.com/CLUEbenchmark/SuperCLUE-Open'>SuperCLUE-Open</a>
+     
     更新 Update（2023-06-19）
     SuperCLUE中文大模型排行榜(2023年6月) 
-    
+        
+    更新 Update（2023-05-31）
+     <a href='https://www.SuperCLUEAI.com'>中文通用大模型匿名对战评价基准，SuperCLUE琅琊榜</a>
+
     更新 Update（2023-05-30）
     添加RWKV-7B,IDEA-姜子牙-13B,西湖大模型v2       
+
     
     更新 Update（2023-05-21）
     添加360智脑
