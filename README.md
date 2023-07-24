@@ -49,7 +49,7 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 
 它尝试在一系列国内外代表性的模型上使用多个维度能力进行测试。SuperCLUE是中文语言理解测评基准（CLUE）在通用人工智能时代的进一步发展。
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue_202306.jpeg"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue_rank7.jpeg"  width="100%" height="100%"></img>
 
 
 ## SuperCLUE的测试结果
@@ -59,29 +59,29 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 
 ### 2023年7月SuperCLUE中文大模型总排行榜
 
-| 排名 |                                              模型                                               |     机构     |  总分   | 基础能力 | 中文特性 | 学术专业 | 许可证 |
-|:--:|:---------------------------------------------------------------------------------------------:|:----------:|:-----:|:---:|:---:|:---:|:---:|
-| 🧝 |                                              人类                                               |    CLUE    | 83.66 | 85.03 | 82.29 | - | - |
-| -  |                            <a href='https://openai.com/'>GPT-4</a>                            |   OpenAI   | 70.89 | 70.04 | 72.67 | 69.96 | 专有服务 |
-| 🏅 |                  <a href='https://yiyan.baidu.com/welcome'>文心一言(v2.2.0) </a>                  |     百度     | 62.00 | 61.11 | 71.38 | 53.50 | 专有服务 |
-| -  |                      <a href='https://www.anthropic.com/'>Claude-2 </a>                       | Authropic  | 60.94 | 62.01 | 61.18 | 59.63 | 专有服务 |
-| -  |                        <a href='https://openai.com/'>gpt-3.5-turbo</a>                        |   OpenAI   | 59.79 | 64.40 | 63.19 | 51.78 | 专有服务 |
-| 🥈 |                         <a href='https://chatglm.cn'>ChatGLM-130B</a>                         | 清华大学&智谱AI  | 59.35 | 53.78 | 71.39 | 52.89 | 专有服务 |
-| 🥉 |                      <a href='https://xinghuo.xfyun.cn/'>讯飞星火(v1.5)</a>                       |    科大讯飞    | 58.02 | 63.32 | 65.72 | 45.03 | 专有服务 |
-| -  |                  <a href='https://www.anthropic.com/'>Claude-instant-v1</a>                   | Authropic  | 56.31 | 58.85 | 55.91 | 54.16 | 专有服务 |
-| 4  |                          <a href='https://ai.360.cn'>360智脑(4.0)</a>                           |    360     | 55.04 | 56.68 | 62.54 | 45.88 | 专有服务 |
-| 5  |        <a href='https://huggingface.co/internlm/internlm-chat-7b'>internlm-chat-7b</a>        | 上海AI实验室与商汤 | 53.91 | 54.85 | 61.35 | 45.53 | 开源-可商用 |
-| 6  |                <a href='https://github.com/THUDM/ChatGLM2-6B'>ChatGLM2-6B</a>                 | 清华大学&智谱AI  | 53.85 | 55.60 | 63.59 | 42.37 | 开源-可商用 |
-| 7  |                    <a href='https://api.minimax.chat/'>MiniMax-abab5.5</a>                    |  MiniMax   | 53.06 | 53.61 | 62.79 | 42.77 | 专有服务 |
-| 8  |                     <a href='https://tongyi.aliyun.com/'>通义千问(v1.0.3)</a>                     |    阿里巴巴    | 51.52 | 52.84 | 61.73 | 39.98 | 专有服务 |
-| 9  |     <a href='https://huggingface.co/baichuan-inc/Baichuan-13B-Chat'>Baichuan-13B-Chat</a>     |    百川智能    | 49.35 | 50.46 | 55.38 | 42.21 | 开源-可商用 |
-| 10 | <a href='https://huggingface.co/BelleGroup/BELLE-LLaMA-13B-2M-enc'>BELLE-LLaMA-13B-2M-enc</a> |     链家     | 46.60 | 48.71 | 52.99 | 38.10 | 开源-非商用 |
-| 11 |     <a href='https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1'>IDEA-姜子牙-13B-v1.1</a>      | 深圳IDEA研究院  | 43.80 | 47.55 | 48.61 | 35.26 | 开源-非商用 |
-| 12 |   <a href='https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b'>phoenix-7B</a>    |   香港中文大学   | 41.57 | 45.39 | 44.62 | 34.70 | 开源-可商用 |
-| 13 |                                    <a href='https://huggingface.co/fnlp/moss-moon-003-sft'>MOSS-16B</a>                                    |    复旦大学        | 35.36      |  37.01     |  38.01     |  31.07     | 开源-可商用 |
-| 14 |        <a href='https://huggingface.co/meta-llama/Llama-2-13b-hf'>Llama-2-13B-chat</a>        |    Meta    | 34.26 | 35.85 | 37.37 | 29.57 | 开源-可商用 |
-| 15 |                  <a href='https://github.com/lm-sys/FastChat'>Vicuna-13B</a>                  |   UC伯克利    | 31.70 | 34.61 | 33.71 | 26.80 | 开源-非商用 |
-| 16 |       <a href='https://huggingface.co/BlinkDL/rwkv-4-world'>RWKV-7B-World-CHNtuned</a>        |  RWKV基金会   | 27.83 | 30.71 | 28.13 | 24.66 | 开源-可商用|
+| 排名 |                                                                    模型                                                                     |     机构     |  总分   | 基础能力 | 中文特性 | 学术专业 | 许可证 |
+|:--:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-----:|:---:|:---:|:---:|:---:|
+| 🧝 |                                                                    人类                                                                     |    CLUE    | 83.66 | 85.03 | 82.29 | - | - |
+| -  |                                                  <a href='https://openai.com/'>GPT-4</a>                                                  |   OpenAI   | 70.89 | 70.04 | 72.67 | 69.96 | 专有服务 |
+| 🏅 |                                        <a href='https://yiyan.baidu.com/welcome'>文心一言(v2.2.0) </a>                                        |     百度     | 62.00 | 61.11 | 71.38 | 53.50 | 专有服务 |
+| -  |                                            <a href='https://www.anthropic.com/'>Claude-2 </a>                                             | Authropic  | 60.94 | 62.01 | 61.18 | 59.63 | 专有服务 |
+| -  |                                              <a href='https://openai.com/'>gpt-3.5-turbo</a>                                              |   OpenAI   | 59.79 | 64.40 | 63.19 | 51.78 | 专有服务 |
+| 🥈 |                                               <a href='https://chatglm.cn'>ChatGLM-130B</a>                                               | 清华大学&智谱AI  | 59.35 | 53.78 | 71.39 | 52.89 | 专有服务 |
+| 🥉 |                                            <a href='https://xinghuo.xfyun.cn/'>讯飞星火(v1.5)</a>                                             |    科大讯飞    | 58.02 | 63.32 | 65.72 | 45.03 | 专有服务 |
+| -  |                                        <a href='https://www.anthropic.com/'>Claude-instant-v1</a>                                         | Authropic  | 56.31 | 58.85 | 55.91 | 54.16 | 专有服务 |
+| 4  |                                                <a href='https://ai.360.cn'>360智脑(4.0)</a>                                                 |    360     | 55.04 | 56.68 | 62.54 | 45.88 | 专有服务 |
+| 5  |                              <a href='https://huggingface.co/internlm/internlm-chat-7b'>internlm-chat-7b</a>                              | 上海AI实验室与商汤 | 53.91 | 54.85 | 61.35 | 45.53 | 开源-可商用 |
+| 6  |                                      <a href='https://github.com/THUDM/ChatGLM2-6B'>ChatGLM2-6B</a>                                       | 清华大学&智谱AI  | 53.85 | 55.60 | 63.59 | 42.37 | 开源-可商用 |
+| 7  |                                          <a href='https://api.minimax.chat/'>MiniMax-abab5.5</a>                                          |  MiniMax   | 53.06 | 53.61 | 62.79 | 42.77 | 专有服务 |
+| 8  |                                           <a href='https://tongyi.aliyun.com/'>通义千问(v1.0.3)</a>                                           |    阿里巴巴    | 51.52 | 52.84 | 61.73 | 39.98 | 专有服务 |
+| 9  |                           <a href='https://huggingface.co/baichuan-inc/Baichuan-13B-Chat'>Baichuan-13B-Chat</a>                           |    百川智能    | 49.35 | 50.46 | 55.38 | 42.21 | 开源-可商用 |
+| 10 |                       <a href='https://huggingface.co/BelleGroup/BELLE-LLaMA-13B-2M-enc'>BELLE-LLaMA-13B-2M-enc</a>                       |     链家     | 46.60 | 48.71 | 52.99 | 38.10 | 开源-非商用 |
+| 11 |                           <a href='https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1'>IDEA-姜子牙-13B-v1.1</a>                            | 深圳IDEA研究院  | 43.80 | 47.55 | 48.61 | 35.26 | 开源-非商用 |
+| 12 |                         <a href='https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b'>phoenix-7B</a>                          |   香港中文大学   | 41.57 | 45.39 | 44.62 | 34.70 | 开源-可商用 |
+| 13 |                  <a href='https://huggingface.co/fnlp/moss-moon-003-sft'>MOSS-16B</a>                                                     |    复旦大学        | 35.36      |  37.01     |  38.01     |  31.07     | 开源-可商用 |
+| 14 |                              <a href='https://huggingface.co/meta-llama/Llama-2-13b-hf'>Llama-2-13B-chat</a>                              |    Meta    | 34.26 | 35.85 | 37.37 | 29.57 | 开源-可商用 |
+| 15 |                                        <a href='https://github.com/lm-sys/FastChat'>Vicuna-13B</a>                                        |   UC伯克利    | 31.70 | 34.61 | 33.71 | 26.80 | 开源-非商用 |
+| 16 |                             <a href='https://huggingface.co/BlinkDL/rwkv-4-world'>RWKV-7B-World-CHNtuned</a>                              |  RWKV基金会   | 27.83 | 30.71 | 28.13 | 24.66 | 开源-可商用|
    
     注：国外代表性非开源模型（GPT4.0/Claude/gpt-3.5）参与榜单，但不参与排名
 
@@ -135,7 +135,6 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
     注：国外代表性非开源模型（GPT4.0/Claude/gpt-3.5）参与榜单，但不参与排名；指标为：Accuracy。数据表比较大，表格请往后拉        
 
 ### 2023年7月SuperCLUE中文特性榜单
-您的Excel数据已经被转换为Markdown形式的表格，如下所示：
 
 | 排名  |           模型           | 平均分 | 字形和拼音 | 字义理解 | 句法分析 | 文学 | 诗词 | 成语 | 歇后语和谚语 | 方言 | 对联 | 古文 |
 |:---:|:----------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
