@@ -29,7 +29,7 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 News   
 [23/07/25] 2023年7月SuperCLUE中文大模型排行榜发布
 
-[23/07/05] 中文大模型的开放式问题与多轮交交互基准发布，<a href='https://github.com/CLUEbenchmark/SuperCLUE-Open'>SuperCLUE-Open</a>
+[23/07/05] 中文大模型的开放式问题与多轮对话基准发布，<a href='https://github.com/CLUEbenchmark/SuperCLUE-Open'>SuperCLUE-Open</a>
 
 [23/05/31] <a href='https://www.SuperCLUEAI.com'>中文通用大模型匿名对战评价基准，SuperCLUE琅琊榜</a>
      
