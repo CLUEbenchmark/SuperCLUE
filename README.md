@@ -81,7 +81,28 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 | 13 |        <a href='https://huggingface.co/meta-llama/Llama-2-13b-hf'>Llama-2-13B-chat</a>        |    Meta    | 34.26 | 35.85 | 37.37 | 29.57 | 开源-可商用 |
 | 14 |                  <a href='https://github.com/lm-sys/FastChat'>Vicuna-13B</a>                  |   UC伯克利    | 31.70 | 34.61 | 33.71 | 26.80 | 开源-非商用 |
 | 15 |       <a href='https://huggingface.co/BlinkDL/rwkv-4-world'>RWKV-7B-World-CHNtuned</a>        |  RWKV基金会   | 27.83 | 30.71 | 28.13 | 24.66 | 开源-可商用|
+   
+    注：国外代表性非开源模型（GPT4.0/Claude/gpt-3.5/）参与榜单，但不参与排名
 
+   
+ #### 2023年7月SuperCLUE-60-130亿参数量级榜单
+  | 排名  |                                              模型                                               |     机构     |  总分   | 基础能力 | 中文特性 | 学术专业 | 许可证 |
+|:---:|:---------------------------------------------------------------------------------------------:|:----------:|:-----:|:---:|:---:|:---:|:---:|
+| 🧝  |                                              人类                                               |    CLUE    | 83.66 | 85.03 | 82.29 | - | - |
+| 🏅️ |        <a href='https://huggingface.co/internlm/internlm-chat-7b'>internlm-chat-7b</a>        | 上海AI实验室与商汤 | 53.91 | 54.85 | 61.35 | 45.53 | 开源-可商用 |
+| 🥈  |                <a href='https://github.com/THUDM/ChatGLM2-6B'>ChatGLM2-6B</a>                 | 清华大学&智谱AI  | 53.85 | 55.60 | 63.59 | 42.37 | 开源-可商用 |
+| 🥉  |     <a href='https://huggingface.co/baichuan-inc/Baichuan-13B-Chat'>Baichuan-13B-Chat</a>     |    百川智能    | 49.35 | 50.46 | 55.38 | 42.21 | 开源-可商用 |
+|  4  | <a href='https://huggingface.co/BelleGroup/BELLE-LLaMA-13B-2M-enc'>BELLE-LLaMA-13B-2M-enc</a> |     链家     | 46.60 | 48.71 | 52.99 | 38.10 | 开源-非商用 |
+|  5  |     <a href='https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1'>IDEA-姜子牙-13B-v1.1</a>      | 深圳IDEA研究院  | 43.80 | 47.55 | 48.61 | 35.26 | 开源-非商用 |
+|  6  |   <a href='https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b'>phoenix-7B</a>    |   香港中文大学   | 41.57 | 45.39 | 44.62 | 34.70 | 开源-可商用 |
+|  7  |        <a href='https://huggingface.co/meta-llama/Llama-2-13b-hf'>Llama-2-13B-chat</a>        |    Meta    | 34.26 | 35.85 | 37.37 | 29.57 | 开源-可商用 |
+|  8  |                  <a href='https://github.com/lm-sys/FastChat'>Vicuna-13B</a>                  |   UC伯克利    | 31.70 | 34.61 | 33.71 | 26.80 | 开源-非商用 |
+|  9  |       <a href='https://huggingface.co/BlinkDL/rwkv-4-world'>RWKV-7B-World-CHNtuned</a>        |  RWKV基金会   | 27.83 | 30.71 | 28.13 | 24.66 | 开源-可商用|
+  
+ 往期榜单，
+2023年6月：<a href='./README_2306.md'>2023年6月SuperCLUE中文特性榜单</a>
+
+2023年5月：<a href='./README_2305.md'>2023年5月SuperCLUE中文特性榜单</a>
 
 ### 2023年6月SuperCLUE基础能力榜单
 
@@ -134,25 +155,7 @@ SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模�
 | 17 | RWKV-Raven-7B | 23.66 | 23.81 | 20.56 | 22.58 | 27.27 | 20.42 | 28.38 | 25.71 | 14.06 | 27.86 | 23.94 |
     
      指标为：Accuracy。数据表比较大，表格请往后啦。       
-   
- #### 2023年7月SuperCLUE-60-130亿参数量级榜单
-  | 排名  |                                              模型                                               |     机构     |  总分   | 基础能力 | 中文特性 | 学术专业 | 许可证 |
-|:---:|:---------------------------------------------------------------------------------------------:|:----------:|:-----:|:---:|:---:|:---:|:---:|
-| 🧝  |                                              人类                                               |    CLUE    | 83.66 | 85.03 | 82.29 | - | - |
-| 🏅️ |        <a href='https://huggingface.co/internlm/internlm-chat-7b'>internlm-chat-7b</a>        | 上海AI实验室与商汤 | 53.91 | 54.85 | 61.35 | 45.53 | 开源-可商用 |
-| 🥈  |                <a href='https://github.com/THUDM/ChatGLM2-6B'>ChatGLM2-6B</a>                 | 清华大学&智谱AI  | 53.85 | 55.60 | 63.59 | 42.37 | 开源-可商用 |
-| 🥉  |     <a href='https://huggingface.co/baichuan-inc/Baichuan-13B-Chat'>Baichuan-13B-Chat</a>     |    百川智能    | 49.35 | 50.46 | 55.38 | 42.21 | 开源-可商用 |
-|  4  | <a href='https://huggingface.co/BelleGroup/BELLE-LLaMA-13B-2M-enc'>BELLE-LLaMA-13B-2M-enc</a> |     链家     | 46.60 | 48.71 | 52.99 | 38.10 | 开源-非商用 |
-|  5  |     <a href='https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1'>IDEA-姜子牙-13B-v1.1</a>      | 深圳IDEA研究院  | 43.80 | 47.55 | 48.61 | 35.26 | 开源-非商用 |
-|  6  |   <a href='https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b'>phoenix-7B</a>    |   香港中文大学   | 41.57 | 45.39 | 44.62 | 34.70 | 开源-可商用 |
-|  7  |        <a href='https://huggingface.co/meta-llama/Llama-2-13b-hf'>Llama-2-13B-chat</a>        |    Meta    | 34.26 | 35.85 | 37.37 | 29.57 | 开源-可商用 |
-|  8  |                  <a href='https://github.com/lm-sys/FastChat'>Vicuna-13B</a>                  |   UC伯克利    | 31.70 | 34.61 | 33.71 | 26.80 | 开源-非商用 |
-|  9  |       <a href='https://huggingface.co/BlinkDL/rwkv-4-world'>RWKV-7B-World-CHNtuned</a>        |  RWKV基金会   | 27.83 | 30.71 | 28.13 | 24.66 | 开源-可商用|
-  
- 往期榜单，
-2023年6月：<a href='./README_2306.md'>2023年6月SuperCLUE中文特性榜单</a>
-2023年5月：<a href='./README_2305.md'>2023年5月SuperCLUE中文特性榜单</a>
- 
+
 
 ### SuperCLUE的构成与特点
 着眼于综合评价大模型的能力，使其能全面地测试大模型的效果，又能考察模型在中文特有任务上的理解和积累。我们对能力进行了划分，
