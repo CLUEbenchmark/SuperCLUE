@@ -27,6 +27,8 @@ SuperCLUE: A Benchmark for Foundation Models in Chinese
 SuperCLUE基准计划按照月度进行更新，纳入更多可用中文大模型，欢迎联系与交流；数据集和进一步信息计划在下一次更新时公开，敬请期待。
 
 News   
+[23/07/28] <a href='https://github.com/CLUEbenchmark/Llama2-Chinese'>Llama2开源模型中文版-榜单及全方位测评</a>
+
 [23/07/25] 2023年7月SuperCLUE中文大模型排行榜发布
 
 [23/07/05] 中文大模型的开放式问题与多轮对话基准发布，<a href='https://github.com/CLUEbenchmark/SuperCLUE-Open'>SuperCLUE-Open</a>
