@@ -349,10 +349,9 @@ SuperCLUE榜单大模型评测申请：https://wj.qq.com/s2/12305633/a73d/
 如果使用本项目的，请引用本项目。
 
     @misc{SuperCLUE,
-      author = {Liang Xu, Xuanwei Zhang, Kangkang Zhao, Lei Zhu and others from SuperCLUE team},
-      title = {SuperCLUE: A Benchmark for Foundation Models in Chinese},
+      author = {Liang Xu, Anqi Li, Lei Zhu, Hang Xue, Changtai Zhu, Kangkang Zhao, Haonan He, Xuanwei Zhang, Qiyue Kang, Zhenzhong Lan},
+      title = {SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark},
       year = {2023},
-      publisher = {GitHub},
-      journal = {GitHub repository},
-      howpublished = {\url{https://github.com/CLUEbench/SuperCLUE}},
+      publisher = {arxiv},
+      howpublished = {\url{https://arxiv.org/abs/2307.15020}},
     }
