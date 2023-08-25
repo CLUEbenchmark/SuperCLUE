@@ -3,7 +3,7 @@
 
 SuperCLUE: A Benchmark for Foundation Models in Chinese
 
-<a href='https://github.com/CLUEbenchmark/SuperCLUE-OPEN'>【2023年8月25日】SuperCLUE能力定义和示例</a>
+<a href='https://github.com/CLUEbenchmark/SuperCLUE-OPEN'>!NEW【2023年8月25日】SuperCLUE能力定义和示例</a>
 
 - [SuperCLUE是什么](#SuperCLUE是什么)
 - [SuperCLUE的构成与特点](#SuperCLUE的构成与特点)
