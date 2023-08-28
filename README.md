@@ -108,7 +108,7 @@
 |  6  | Chinese-Alpaca-2-13B  | Yiming Cui  | 35.29 |   18.33   |   52.25   |
 
 ### 能力评估结构图
-<img src="https://github.com/CLUEbenchmark/SuperCLUEblob/main/resources//superclue_category.png"  width="60%" height="60%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources//superclue_category.png"  width="60%" height="60%"></img>
 
 SuperCLUE基础十大能力结构包含四个能力象限，包括语言理解与生成、知识理解与应用、专业能力和环境适应与安全性，进而细化为10项基础能力。
 
@@ -119,7 +119,7 @@ SuperCLUE基础十大能力结构包含四个能力象限，包括语言理解�
 
 ##### 多轮对话示例
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUEblob/main/resources//open11.jpg"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources//open11.jpg"  width="100%" height="100%"></img>
 
 注：本示例中可同时评测多轮对话能力
 
@@ -129,7 +129,7 @@ SuperCLUE基础十大能力结构包含四个能力象限，包括语言理解�
 
 ##### 示例
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUEblob/main/resources//open22chat.jpeg"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources//open22chat.jpeg"  width="100%" height="100%"></img>
 
 
 #### 能力3：上下文对话
@@ -138,14 +138,14 @@ SuperCLUE基础十大能力结构包含四个能力象限，包括语言理解�
 
 ##### 示例
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUEblob/main/resources//open333dialg.jpeg"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources//open333dialg.jpeg"  width="100%" height="100%"></img>
 
 #### 能力4：生成与创作
 
 这是一种语言能力，能够创造新的文本内容，如文章、文案、短故事、诗歌。这涉及到创造性地运用语言，同时还要考虑到风格、语境和目标读者。
 
 ##### 示例
-<img src="https://github.com/CLUEbenchmark/SuperCLUEblob/main/resources//open444generate.jpeg"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources//open444generate.jpeg"  width="100%" height="100%"></img>
 
 
 #### 能力5：知识与百科
@@ -154,7 +154,7 @@ SuperCLUE基础十大能力结构包含四个能力象限，包括语言理解�
 
 ##### 示例
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUEblob/main/resources//open555baike.jpeg"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources//open555baike.jpeg"  width="100%" height="100%"></img>
 
 
 #### 能力6：代码
@@ -163,7 +163,7 @@ SuperCLUE基础十大能力结构包含四个能力象限，包括语言理解�
 
 ##### 多轮对话示例
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUEblob/main/resources//open666code.jpeg"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources//open666code.jpeg"  width="100%" height="100%"></img>
 
 注：本示例中可同时评测多轮对话能力
 
@@ -173,7 +173,7 @@ SuperCLUE基础十大能力结构包含四个能力象限，包括语言理解�
 
 ##### 示例
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUEblob/main/resources//open777logic.jpeg"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources//open777logic.jpeg"  width="100%" height="100%"></img>
 
 
 ####  能力8：计算
@@ -182,7 +182,7 @@ SuperCLUE基础十大能力结构包含四个能力象限，包括语言理解�
 
 ##### 多轮对话示例
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUEblob/main/resources//open888compute.jpeg"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources//open888compute.jpeg"  width="100%" height="100%"></img>
 
 注：本示例中可同时评测多轮对话能力
 
@@ -192,7 +192,7 @@ SuperCLUE基础十大能力结构包含四个能力象限，包括语言理解�
 
 ##### 示例
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUEblob/main/resources//open999roleplay.jpeg"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources//open999roleplay.jpeg"  width="100%" height="100%"></img>
 
 
 ####   能力10：安全
@@ -201,4 +201,4 @@ SuperCLUE基础十大能力结构包含四个能力象限，包括语言理解�
 
 ##### 示例
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUEblob/main/resources//open10safe.jpeg"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources//open10safe.jpeg"  width="100%" height="100%"></img>
