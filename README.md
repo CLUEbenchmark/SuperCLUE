@@ -209,4 +209,4 @@ SuperCLUE基础十大能力结构包含四个能力象限，包括语言理解�
 2.模型细节：Baichuan-13B-Chat使用了是最新的模型权重，具体见huggingface的权重；文心一言，OPT三大能力客观题使用的是API（Ernie-3.5-turbo）；
   360使用的是api版本；
 
-3.模型更新：去除了一些前期大家比较关注但当前活跃度不高的模型，如MOSS,BELLE等；加入了一些如Qwen-7B-Chat和3个Llam2相关模型。
+3.模型更新：去除了一些前期大家比较关注但当前活跃度不高的模型，如MOSS，BELLE等；加入了一些如Qwen-7B-Chat和3个Llam2相关模型。
