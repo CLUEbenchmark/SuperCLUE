@@ -8,6 +8,9 @@
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue_idea.jpeg"  width="90%" height="90%"></img>
 
+### 能力评估结构图
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue_category.jpeg"  width="60%" height="60%"></img>
+
 ### SuperCLUE总排行榜（2023年8月）
 
 | 排名  | 模型                                                                                        | 机构          | 总分    | OPEN<br>多轮开放问题 | OPT<br>三大能力客观题 |
@@ -106,9 +109,6 @@
 |  4  | Openbuddy-Llama2-13b  | Openbuddy | 44.84 |   38.15   |   51.53   |
 |  5  |   Llama-2-13b-chat    |    Meta     | 36.63 |   36.98   |   36.29   |
 |  6  | Chinese-Alpaca-2-13B  | Yiming Cui  | 35.29 |   18.33   |   52.25   |
-
-### 能力评估结构图
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue_category.png"  width="60%" height="60%"></img>
 
 SuperCLUE基础十大能力结构包含四个能力象限，包括语言理解与生成、知识理解与应用、专业能力和环境适应与安全性，进而细化为10项基础能力。
 
