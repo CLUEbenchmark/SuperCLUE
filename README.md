@@ -6,7 +6,7 @@
 
 技术报告：<a href='https://arxiv.org/abs/2307.15020'>SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark</a>
 
-【2023-9-12】 <a href='[https://arxiv.org/abs/2307.15020](https://github.com/CLUEbenchmark/SuperCLUE-safety)'>SuperCLUE-Safety：中文大模型多轮对抗安全基准</a>
+【2023-9-12】 <a href='https://github.com/CLUEbenchmark/SuperCLUE-safety'>SuperCLUE-Safety：中文大模型多轮对抗安全基准</a>
 
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue_idea.jpeg"  width="90%" height="90%"></img>
