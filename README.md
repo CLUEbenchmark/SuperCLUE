@@ -14,6 +14,14 @@
 ### 能力评估结构图
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/category09.png"  width="60%" height="60%"></img>
 
+### 为什么新增AI Agent智能体能力？
+
+AI agent（智能体）是当前与大语言模型相关的前沿研究热点，拥有类似贾维斯等科幻电影中人类超级助手的能力，可以根据需求自主的完成任务。
+然而，面向AI agent智能体，缺乏中文大模型上的广泛评估。为了解决这一问题，我们在SuperCLUE新的榜单中新增了AI agent智能体能力的测评。
+这个榜单将重点评估AI agent在工具使用和任务规划两个关键能力上的表现，这项工作旨在为评估中文大模型作为智能体的表现提供一个基础和可能。
+
+
+
 ### SuperCLUE总排行榜（2023年8月）
 
 | 排名  | 模型                                                                                        | 机构          | 总分    | OPEN<br>多轮开放问题 | OPT<br>三大能力客观题 |
