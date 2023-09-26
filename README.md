@@ -12,7 +12,7 @@
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue_idea.jpeg"  width="90%" height="90%"></img>
 
 ### 能力评估结构图
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue_category.jpeg"  width="60%" height="60%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/category09.png"  width="60%" height="60%"></img>
 
 ### SuperCLUE总排行榜（2023年8月）
 
