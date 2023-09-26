@@ -214,7 +214,7 @@ AI agent（智能体）是当前与大语言模型相关的前沿研究热点，
 
 ##### 示例
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/image_safety.png"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/r2309/image_safety.png"  width="100%" height="100%"></img>
 
 ### 8月榜单更新情况
 1.综合性：将OPEN多轮开放问题与OPT三大能力客观题进行了结合起来，作为8月榜单；
