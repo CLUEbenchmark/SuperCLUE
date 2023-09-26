@@ -74,3 +74,7 @@ if __name__ == '__main__':
     model.eval()
     uvicorn.run(app, host='0.0.0.0', port=9605, workers=1)
 ```
+
+
+# 参考
+https://huggingface.co/THUDM/chatglm2-6b

@@ -23,3 +23,6 @@ def call_ChatGLM_130B(prompt, history=[]):
 # 服务部署代码
 ```python
 ```
+
+# 参考
+https://open.bigmodel.cn/dev/api#chatglm_pro

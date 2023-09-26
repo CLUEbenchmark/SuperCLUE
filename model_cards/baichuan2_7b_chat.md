@@ -56,3 +56,6 @@ if __name__ == '__main__':
     uvicorn.run(app, host='0.0.0.0', port=6004, workers=1)
 
 ```
+
+# 参考
+https://huggingface.co/baichuan-inc/Baichuan2-7B-Chat

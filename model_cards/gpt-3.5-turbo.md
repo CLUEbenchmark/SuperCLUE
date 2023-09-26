@@ -23,3 +23,6 @@ def call_GPT_3point5_turbo(prompt,history=[]):
 # 服务部署代码
 ```python
 ```
+
+# 参考
+openai

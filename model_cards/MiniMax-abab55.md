@@ -36,3 +36,6 @@ def call_MiniMax_abab55(prompt, history=[]):
 # 服务部署代码
 ```python
 ```
+
+# 参考
+https://api.minimax.chat/document/guides/chat-pro?id=64b79fa3e74cddc5215939f4

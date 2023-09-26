@@ -57,3 +57,7 @@ async def create_item(request: Request):
 if __name__ == '__main__':
     uvicorn.run(app, host='0.0.0.0', port=6003, workers=1)
 ```
+
+# 参考
+
+https://huggingface.co/baichuan-inc/Baichuan2-13B-Chat

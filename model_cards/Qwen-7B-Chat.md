@@ -61,3 +61,6 @@ if __name__ == '__main__':
 
   
 ```
+
+# 参考
+https://huggingface.co/Qwen/Qwen-7B-Chat

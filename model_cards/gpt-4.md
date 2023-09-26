@@ -19,3 +19,6 @@ def call_gpt_4(prompt,history=[]):
 # 服务部署代码
 ```python
 ```
+
+# 参考
+openai
