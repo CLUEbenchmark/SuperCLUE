@@ -2,6 +2,8 @@
 
 中文通用大模型综合性基准SuperCLUE
 
+<a href='https://www.superclueai.com'>SuperCLUE最新9月榜单</a>
+
 文章地址：<a href='https://www.cluebenchmarks.com/superclue.html'>www.cluebenchmarks.com/superclue.html</a>
 
 技术报告：<a href='https://arxiv.org/abs/2307.15020'>SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark</a>
@@ -19,8 +21,6 @@
 AI agent（智能体）是当前与大语言模型相关的前沿研究热点，拥有类似贾维斯等科幻电影中人类超级助手的能力，可以根据需求自主的完成任务。
 然而，面向AI agent智能体，缺乏针对中文大模型的广泛评估。为了解决这一问题，我们在SuperCLUE新的榜单中新增了AI agent智能体能力的测评。
 这个榜单将重点评估AI agent在【工具使用】和【任务规划】两个关键能力上的表现，这项工作旨在为评估中文大模型作为智能体的表现提供一个基础和可能。
-
-<a href='https://www.superclueai.com'>SuperCLUE最新9月榜单</a>
 
 ### SuperCLUE总排行榜（2023年9月）
 
