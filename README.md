@@ -24,7 +24,7 @@ SuperCLUE是一个综合性大模型评测基准，本次评测主要聚焦于�
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/category09.png"  width="60%" height="60%"></img>
 
 ### SuperCLUE多维度测评方案
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/r2309/superclue_mlitisystem.png"  width="80%" height="80%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/r2309/superclue_mlitisystem.png"  width="90%" height="90%"></img>
 
 
 ### 为什么新增AI Agent智能体能力？
