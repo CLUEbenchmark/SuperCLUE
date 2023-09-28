@@ -11,10 +11,21 @@
 【2023-9-12】 <a href='https://github.com/CLUEbenchmark/SuperCLUE-safety'>SuperCLUE-Safety：中文大模型多轮对抗安全基准</a>
 
 
+
+【9月26日】，SuperCLUE发布中文大模型9月榜单。
+
+SuperCLUE是一个综合性大模型评测基准，本次评测主要聚焦于大模型的四个能力象限，包括语言理解与生成、专业技能与知识、Agent智能体和安全性，进而细化为12项基础能力。
+
+相比与上月，新增了AI Agent智能体
+
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue_idea.jpeg"  width="90%" height="90%"></img>
 
-### 能力评估结构图
+### SuperCLUE能力评估结构图
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/category09.png"  width="60%" height="60%"></img>
+
+### SuperCLUE多维度测评方案
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/r2309/superclue_mlitisystem.png"  width="60%" height="60%"></img>
+
 
 ### 为什么新增AI Agent智能体能力？
 
@@ -249,6 +260,27 @@ AI Agent: AI Agent智能体能力，包括工具使用、任务规划； 语言�
 | 15 | Qwen-7B-Chat | 21.88 | 16.07 | 30.01 |
 | 16 | 通义千问(v1.0.7) | 13.54 | 3.57 | 27.59 |
 
+
+### 9月测评改进
+
+#### 1. 模型变动
+1）新增商汤商量SenseChat 3.0大模型、vivo的vivoLM大模型、字节跳动的豆包大模型。
+ 
+2）本次评测了百度的两个版本模型，分别为网页版文心一言(v2.3.1)与API版本ERNIE-3.5-Turbo。（注：过去8月份OPT选择题评测的是ERNIE-3.5-Turbo的API，OPEN开放问题评测的是文心一言的网页版）。
+
+3）ChatGLM闭源模型由ChatGLM-130B升级为ChatGLM2-Pro。
+
+具体被测模型的配置信息见Github的ModelCard。Github地址：https://github.com/CLUEbenchmark/SuperCLUE
+
+#### 2. 评测任务变动
+本月评测任务新增AI智能体，重点评估AI Agent在【工具使用】和【任务规划】两个关键能力上的表现。
+
+#### 3. 评分机制变动
+SuperCLUE结合大模型市场技术进展及国内外评测基准现状，对综合性评测总分评分逻辑进行优化。
+
+1）多轮开放评测OPEN评分标准：在与基线模型对战过程中，我们认为胜的情况价值意义更大。所以，本次OPEN测评将胜（1分）调整为胜（3分）。如一道题目对战，胜得3分，平局得1分，负得0分。
+
+2）我们发现客观选择题并不能考察中文大模型的真实综合能力，多轮主观题的能力尤为重要，所以我们在计算总分时，将OPEN的权重由50%提升至60%。
 
 
 ### 示例
