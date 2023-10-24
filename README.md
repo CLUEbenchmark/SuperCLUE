@@ -7,7 +7,9 @@
 文章地址：<a href='https://www.cluebenchmarks.com/superclue.html' target="__blank">www.cluebenchmarks.com/superclue.html</a>
 
 技术报告：<a href='https://arxiv.org/abs/2307.15020' target="__blank">SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark</a>
+
 【2023-10-24】 <a href='https://www.cluebenchmarks.com/superclue_agent.html' target="__blank">SuperCLUE-Agent：Agent智能体中文原生任务评估基准</a>
+
 【2023-9-12】 <a href='https://github.com/CLUEbenchmark/SuperCLUE-safety' target="__blank">SuperCLUE-Safety：中文大模型多轮对抗安全基准</a>
 
 
