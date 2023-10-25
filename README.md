@@ -2,11 +2,13 @@
 
 中文通用大模型综合性基准SuperCLUE
 
-<a href='https://www.superclueai.com' target="__blank">SuperCLUE最新9月榜单</a>
+<a href='https://www.superclueai.com' target="__blank">SuperCLUE最新10月榜单</a>
 
 文章地址：<a href='https://www.cluebenchmarks.com/superclue.html' target="__blank">www.cluebenchmarks.com/superclue.html</a>
 
 技术报告：<a href='https://arxiv.org/abs/2307.15020' target="__blank">SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark</a>
+
+【2023-10-19】 <a href='https://www.cluebenchmarks.com/superclue_agent.html' target="__blank">SuperCLUE-Agent：Agent智能体中文原生任务评估基准</a>
 
 
 【2023-10-24】 <a href='https://www.cluebenchmarks.com/superclue_agent.html' target="__blank">SuperCLUE-Agent：Agent智能体中文原生任务评估基准</a>
@@ -154,18 +156,15 @@ AI agent（智能体）是当前与大语言模型相关的前沿研究热点，
 ### 23-10月测评改进
 
 #### 1. 模型变动
-1）新增商汤商量SenseChat 3.0大模型、vivo的vivoLM大模型、字节跳动的豆包大模型。
+1）本次评测选取了目前国内外最具代表性的20个通用大语言模型。与9月相比，新增了月之暗面的Moonshot、百度的文心一言4.0、科大讯飞的星火V3.0、
+vivo的vivoLM和阿里云的Qwen-14B。
  
-2）本次评测了百度的两个版本模型，分别为网页版文心一言(v2.3.1)与API版本ERNIE-3.5-Turbo。（注：过去8月份OPT选择题评测的是ERNIE-3.5-Turbo的API，OPEN开放问题评测的是文心一言的网页版）。
-
-3）ChatGLM闭源模型由ChatGLM-130B升级为ChatGLM2-Pro。
-
 具体被测模型的配置信息见Github的ModelCard。Github地址：https://github.com/CLUEbenchmark/SuperCLUE
 
 #### 2. 评测任务变动
-本月评测任务新增AI智能体，重点评估AI Agent在【工具使用】和【任务规划】两个关键能力上的表现。
+本月评测任务新增AI智能体，重点评估AI Agent在【工具使用】这个关键能力上的表现；大模型安全使用【传统安全】这一关键能力。
 
-#### 3. 评分机制变动
+#### 3. 评分机制变动（与9月一致）
 SuperCLUE结合大模型市场技术进展及国内外评测基准现状，对综合性评测总分评分逻辑进行优化。
 
 1）多轮开放评测OPEN评分标准：在与基线模型对战过程中，我们认为胜的情况价值意义更大。所以，本次OPEN测评将胜（1分）调整为胜（3分）。如一道题目对战，胜得3分，平局得1分，负得0分。
