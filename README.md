@@ -27,7 +27,7 @@ SuperCLUE是一个综合性大模型评测基准，本次评测主要聚焦于�
 
 相比与上月，新增了AI Agent智能体
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue_idea.jpeg"  width="90%" height="90%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/superclue_idea2.png"  width="90%" height="90%"></img>
 
 ### SuperCLUE能力评估结构图
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/category09.png"  width="60%" height="60%"></img>
