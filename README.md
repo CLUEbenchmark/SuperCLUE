@@ -4,15 +4,14 @@
 
 <a href='https://www.superclueai.com' target="__blank">榜单地址</a>
 
-公众号文章：<a href='https://mp.weixin.qq.com/s/VEqF1RriFpP2pOO_cvHo8Q'>SuperCLUE中文大模型测评基准10月榜单发布</a>
+公众号文章：<a href='https://mp.weixin.qq.com/s/iKkohLPlAj4Hi0QUeaSL3A'>SuperCLUE中文大模型测评基准11月榜单发布</a>
 
 官网地址：<a href='https://www.cluebenchmarks.com/superclue.html' target="__blank">www.cluebenchmarks.com/superclue.html</a>
 
 技术报告：<a href='https://arxiv.org/abs/2307.15020' target="__blank">SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark</a>
 
-【2023-10-30】 测试并添加 通义千问2.0
 
-【2023-10-25】 发布SuperCLUE-2023年10月榜单
+【2023-11-30】 发布SuperCLUE-2023年11月榜单
 
 
 【2023-10-19】 <a href='https://www.cluebenchmarks.com/superclue_agent.html' target="__blank">SuperCLUE-Agent：Agent智能体中文原生任务评估基准</a>
