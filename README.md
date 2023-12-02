@@ -11,6 +11,8 @@
 技术报告：<a href='https://arxiv.org/abs/2307.15020' target="__blank">SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark</a>
 
 
+【2023-11-28】 <a href='https://mp.weixin.qq.com/s/Wd0NiIZPJMZk52UneGTyfQ'>《中文大模型测评报告，2023》发布</a>
+
 【2023-11-30】 发布SuperCLUE-2023年11月榜单
 
 
