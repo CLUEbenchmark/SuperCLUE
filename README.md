@@ -282,10 +282,12 @@ AI agent（智能体）是当前与大语言模型相关的前沿研究热点，
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUE/blob/main/resources/r2309/image_safety.png"  width="100%" height="100%"></img>
 
-### 8月榜单更新情况
-1.综合性：将OPEN多轮开放问题与OPT三大能力客观题进行了结合起来，作为8月榜单；
 
-2.模型细节：Baichuan-13B-Chat使用了是最新的模型权重，具体见huggingface的权重；文心一言，OPT三大能力客观题使用的是API（Ernie-3.5-turbo）；
-  360使用的是api版本；
+## 讨论、测评与交流
 
-3.模型更新：去除了一些前期大家比较关注但当前活跃度不高的模型，如MOSS，BELLE等；加入了一些如Qwen-7B-Chat和3个Llam2相关模型。
+<br/>SuperCLUE-Agent榜单会定期进行更新，会纳入更多可用中文大模型。欢迎对大模型评测感兴趣的个人和机构联系与交流。<br/><br/>
+
+<br/><h2 id="discuss">讨论交流与使用</h2>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/brightmart_s.jpeg"  width="30%" height="30%"></img>
+</p> 
+
