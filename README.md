@@ -285,7 +285,7 @@ AI agent（智能体）是当前与大语言模型相关的前沿研究热点，
 
 ## 讨论、测评与交流
 
-<br/>榜单会定期进行更新，会纳入更多可用中文大模型。欢迎对大模型评测感兴趣的个人和机构联系与交流。<br/><br/>
+<br/>榜单会定期进行更新，会纳入更多可用中文大模型。欢迎对大模型评测感兴趣的个人和机构联系与交流。<br/>
 
   <img src="https://github.com/CLUEbenchmark/SuperCLUE-Agent/blob/main/resources/img/brightmart_s.jpeg"  width="30%" height="30%"></img>
 </p> 
