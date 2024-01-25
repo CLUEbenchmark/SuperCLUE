@@ -2,11 +2,12 @@
 
 中文通用大模型综合性基准SuperCLUE
 
-<a href='https://www.superclueai.com' target="__blank">SuperCLUE中文大模型测评基准12月榜单发布</a>
+<a href='https://www.superclueai.com' target="__blank">SuperCLUE中文大模型测评基准最新榜单</a>
 
 官网地址：<a href='https://www.cluebenchmarks.com/superclue.html' target="__blank">www.cluebenchmarks.com/superclue.html</a>
 
 技术报告：<a href='https://arxiv.org/abs/2307.15020' target="__blank">SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark</a>
+
 
 【2023-12-27】 <a href='https://mp.weixin.qq.com/s/PycSpCCREBgB0tEy3csPKQ'>《中文大模型基准测评报告2023年度报告》发布</a>
 
