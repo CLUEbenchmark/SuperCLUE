@@ -2,7 +2,7 @@
 
 中文通用大模型综合性基准SuperCLUE
 
-<a href='https://www.superclueai.com' target="__blank">SuperCLUE中文大模型测评基准最新榜单</a>
+<a href='https://www.superclueai.com' target="__blank">SuperCLUE中文大模型测评基准最新榜单（2024年2月）</a>
 
 官网地址：<a href='https://www.cluebenchmarks.com/superclue.html' target="__blank">www.cluebenchmarks.com/superclue.html</a>
 
