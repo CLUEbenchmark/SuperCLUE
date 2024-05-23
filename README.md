@@ -2,7 +2,7 @@
 
 中文通用大模型综合性基准SuperCLUE
 
-<a href='https://www.langyb.com'>【琅琊榜】-中文大模型专门竞技场，你关心的领先模型都在这里</a>
+<a href='https://www.langyb.com'>【琅琊榜】-中文大模型专用竞技场，你关心的领先模型都在这里</a>
 
 <a href='https://www.cluebenchmarks.com/superclue_2404' target="__blank">《中文大模型基准测评2024年4月报告》</a>
 
