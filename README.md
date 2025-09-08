@@ -2,7 +2,7 @@
 
 中文通用大模型综合性基准SuperCLUE
 
-SuperCLUE官网更新，2025-09-08： <a href='https://www.superclueai.com/' target="__blank">www.SuperClueAI.com</a>
+SuperCLUE官网更新（2025-09-08）： <a href='https://www.superclueai.com/' target="__blank">www.SuperClueAI.com</a>
 
 
 技术报告：<a href='https://arxiv.org/abs/2307.15020' target="__blank">SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark</a>
