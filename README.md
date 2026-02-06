@@ -4,6 +4,10 @@
 
 SuperCLUE官网更新（2025-09-08）： <a href='https://www.superclueai.com/' target="__blank">www.SuperClueAI.com</a>
 
+中文大模型基准测评2025年年度报告(New!)：<a href='https://www.cluebenchmarks.com/superclue_2025' target="__blank">中文大模型基准测评2025年年度报告</a>
+
+State Of Chinese AI 2025(New!)：<a href='https://www.cluebenchmarks.com/superclue_2025_en' target="__blank">State Of Chinese AI 2025</a>
+
 
 技术报告：<a href='https://arxiv.org/abs/2307.15020' target="__blank">SuperCLUE: A Comprehensive Chinese Large Language Model Benchmark</a>
 
